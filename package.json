@@ -1,0 +1,31 @@
+{
+  "name": "classease",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript utility for conditionally joining class names. Simplify the process of generating class names based on strings, objects, and arrays. Supports dynamic class names, handles falsy values, and allows for nested arrays.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmnhussain/classease.git"
+  },
+  "keywords": [
+    "classease",
+    "class-ease",
+    "css",
+    "styles",
+    "style",
+    "class",
+    "classes",
+    "classnames",
+    "classname",
+    "utility",
+    "web development",
+    "conditional",
+    "dynamic"
+  ],
+  "author": "G. M. Nazmul Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmnhussain/classease/issues"
+  },
+  "homepage": "https://github.com/gmnhussain/classease#readme"
+}
