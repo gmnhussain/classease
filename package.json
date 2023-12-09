@@ -1,6 +1,6 @@
 {
   "name": "classease",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript utility for conditionally joining class names. Simplify the process of generating class names based on strings, objects, and arrays. Supports dynamic class names, handles falsy values, and allows for nested arrays.",
   "main": "index.js",
   "repository": {
