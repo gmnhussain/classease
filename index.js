@@ -1,4 +1,4 @@
-function classes(...args) {
+function classEase(...args) {
   const classNames = [];
 
   function processArg(arg) {
@@ -23,4 +23,5 @@ function classes(...args) {
   return classNames.join(' ');
 }
 
-module.exports = classes;
+module.exports = classEase;
+module.exports.classEase = classEase;
